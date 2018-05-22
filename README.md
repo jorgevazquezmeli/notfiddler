@@ -1,13 +1,14 @@
 # notfiddler
-Fiddler clone as an exercise for the IT accelerator program.
+Fiddler clone as an exercise for the IT accelerator program, made in Go.
 
 ## Usage
 
-Just execute the goproxy file from the folder. The proxy runs on 127.0.0.1:8080, so you'll need to set up your proxy settings in your favorite browser. The proxy outputs the request and response headers for each request.
+Just execute the goproxy file from the 'src/github.com/jorgevazquezmeli/goproxy' folder. The proxy runs on 127.0.0.1:8080, so you'll need to set up your proxy settings in your favorite browser. The proxy outputs data for each request and response data only for HTML/JSon content. You can also see an excerpt from the body.
+
 
 ## Browser configuration
 
-To use the proxy, you'll need to set up your favorite browser so it uses our proxy.
+To use it, you'll need to set up your favorite browser.
 
 ### Firefox
 
