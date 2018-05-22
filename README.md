@@ -3,7 +3,7 @@ Fiddler clone as an exercise for the IT accelerator program.
 
 ## Usage
 
-Just execute the goproxy file from the folder. The proxy runs on 127.0.0.1:8080, so you'll need to set up your proxy settings in your favorite browser.
+Just execute the goproxy file from the folder. The proxy runs on 127.0.0.1:8080, so you'll need to set up your proxy settings in your favorite browser. The proxy outputs the request and response headers for each request.
 
 ## Browser configuration
 
