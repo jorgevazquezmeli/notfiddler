@@ -6,6 +6,9 @@ Fiddler clone as an exercise for the IT accelerator program, made in Go.
 Just execute the goproxy file from the 'src/github.com/jorgevazquezmeli/goproxy' folder. The proxy runs on 127.0.0.1:8080, so you'll need to set up your proxy settings in your favorite browser. The proxy outputs data for each request and response data only for HTML/JSon content. You can also see an excerpt from the body.
 
 
+## Known Issues
+The proxy works with https sites but it does not log requests and responses.
+
 ## Browser configuration
 
 To use it, you'll need to set up your favorite browser.

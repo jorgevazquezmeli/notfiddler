@@ -35,7 +35,6 @@ func main() {
 			return r, nil
 		})
 
-
 	//Logs responses from the web
 	//The IsHTML condition makes it so we only log html responses from the server. Remove it to log everything.
 	proxy.OnResponse(IsHTML).DoFunc(
